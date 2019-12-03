@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archieking.github.io</id>
     <title>Gridea</title>
-    <updated>2019-12-03T09:00:53.084Z</updated>
+    <updated>2019-12-03T09:05:28.712Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://archieking.github.io"/>
     <link rel="self" href="https://archieking.github.io/atom.xml"/>
@@ -10,6 +10,16 @@
     <logo>https://archieking.github.io/images/avatar.png</logo>
     <icon>https://archieking.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[Top 10 Mammals With Odd Defenses]]></title>
+        <id>https://archieking.github.io/post/top-10-mammals-with-odd-defenses</id>
+        <link href="https://archieking.github.io/post/top-10-mammals-with-odd-defenses">
+        </link>
+        <updated>2019-12-03T09:04:36.000Z</updated>
+        <content type="html"><![CDATA[<p>It is said that the basic two responses before danger are to run away, or to attack. However, this list proves that, when it comes to escaping death by predators, some mammals prefer to be a little bit more original. If you guys like this list, there may be a sequel on non-mammals!</p>
+<p>Everyone knows that “playing possum” means playing dead. The American opossum (Didelphis virginianus), found from Canada to Costa Rica, usually reacts to danger as many other mammals do; by hissing, growling and baring its teeth. It can also bite viciously if pushed too far. However, if this all fails and the situation becomes too dangerous, plan B is to feign death; the opossum collapses to the ground, drools as if it was very ill, and then remains motionless, with its mouth open and its teeth bared. It even produces a putrid, corpse-like smell from its anal glands – move over beaver ass juice.Many predators prefer to kill their own prey and most will soon lose interest on an apparently dead animal, leaving the opossum alone. The most amazing thing about the opossum’s defensive method, is that it is not a conscious act; it is rather a physiological response to a highly stressful situation, and the animal does fall into a comatose state that can last for hours; usually, the opossum regains consciousness only after the enemy has left. Exactly how it’s body knows this, is still a mystery.</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://archieking.github.io/post/hello-gridea</id>
