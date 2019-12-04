@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archieking.github.io/mb/</id>
     <title>彬彬恒心’s BLOG</title>
-    <updated>2019-12-04T04:13:39.469Z</updated>
+    <updated>2019-12-04T04:25:43.210Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://archieking.github.io/mb/"/>
     <link rel="self" href="https://archieking.github.io/mb//atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://archieking.github.io/mb//images/avatar.png</logo>
     <icon>https://archieking.github.io/mb//favicon.ico</icon>
     <rights>All rights reserved 2019, 彬彬恒心’s BLOG</rights>
+    <entry>
+        <title type="html"><![CDATA[9个让颜值提高的好习惯]]></title>
+        <id>https://archieking.github.io/mb//post/9-ge-rang-yan-zhi-ti-gao-de-hao-xi-guan</id>
+        <link href="https://archieking.github.io/mb//post/9-ge-rang-yan-zhi-ti-gao-de-hao-xi-guan">
+        </link>
+        <updated>2019-09-13T04:17:11.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[十部机器人电影推荐]]></title>
         <id>https://archieking.github.io/mb//post/shi-bu-ji-qi-ren-dian-ying-tui-jian</id>
