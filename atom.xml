@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archieking.github.io/mb/</id>
     <title>彬彬恒心’s BLOG</title>
-    <updated>2019-12-04T04:38:23.724Z</updated>
+    <updated>2019-12-04T04:42:17.741Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://archieking.github.io/mb/"/>
     <link rel="self" href="https://archieking.github.io/mb//atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://archieking.github.io/mb//images/avatar.png</logo>
     <icon>https://archieking.github.io/mb//favicon.ico</icon>
     <rights>All rights reserved 2019, 彬彬恒心’s BLOG</rights>
+    <entry>
+        <title type="html"><![CDATA[9个让男生变得成熟的建议]]></title>
+        <id>https://archieking.github.io/mb//post/9-ge-rang-nan-sheng-bian-de-cheng-shou-de-jian-yi</id>
+        <link href="https://archieking.github.io/mb//post/9-ge-rang-nan-sheng-bian-de-cheng-shou-de-jian-yi">
+        </link>
+        <updated>2019-12-04T04:40:33.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[12个很重要的能力，但大多数人却没有]]></title>
         <id>https://archieking.github.io/mb//post/12-ge-hen-chong-yao-de-neng-li-dan-da-duo-shu-ren-que-mei-you</id>
@@ -72,12 +79,5 @@
         <link href="https://archieking.github.io/mb//post/nu-ren-shi-ge-xing-gan-de-shun-jian">
         </link>
         <updated>2019-04-11T02:43:29.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[30条越早知道越好的人生经验]]></title>
-        <id>https://archieking.github.io/mb//post/30-tiao-yue-zao-zhi-dao-yue-hao-de-ren-sheng-jing-yan</id>
-        <link href="https://archieking.github.io/mb//post/30-tiao-yue-zao-zhi-dao-yue-hao-de-ren-sheng-jing-yan">
-        </link>
-        <updated>2019-03-04T04:00:57.000Z</updated>
     </entry>
 </feed>
