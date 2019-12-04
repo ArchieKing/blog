@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archieking.github.io/mb/</id>
     <title>彬彬恒心’s BLOG</title>
-    <updated>2019-12-04T02:53:22.040Z</updated>
+    <updated>2019-12-04T03:11:15.791Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://archieking.github.io/mb/"/>
     <link rel="self" href="https://archieking.github.io/mb//atom.xml"/>
@@ -16,6 +16,13 @@
         <link href="https://archieking.github.io/mb//post/top-10-mammals-with-odd-defenses">
         </link>
         <updated>2019-07-16T09:04:36.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[经典励志美文]]></title>
+        <id>https://archieking.github.io/mb//post/shi-da-jing-dian-li-zhi-mei-wen</id>
+        <link href="https://archieking.github.io/mb//post/shi-da-jing-dian-li-zhi-mei-wen">
+        </link>
+        <updated>2019-06-29T03:06:28.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[7 Wonders of the Technological World]]></title>
